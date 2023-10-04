@@ -3,7 +3,7 @@
 Hello there! 👋 I'm Joe Li, an Electrical Engineering student at the [University of British Columbia (UBC)](https://ubc.ca) with a passion for coding and technology-driven innovation.
 I have a diverse background that encompasses both formal education and hands-on experience in various coding languages and domains.
 
-Let's Connect and Collaborate! Whether you're interested in coding projects, educational resources, or simply exploring the world of Electrical Engineering and technology, my GitHub is a space where I share my coding journey and insights.
+Let's connect and collaborate! Whether you're interested in coding projects, educational resources, or simply exploring the world of Electrical Engineering and technology, my GitHub is a space where I share my coding journey and insights.
 
 Feel free to reach out to me through any of the links on [my website](https://skipfie.com).
 
@@ -23,4 +23,4 @@ Repo for our ELEC291 project course at UBC. Written in C, 8051 and ARM assembly 
 
 ---
 
-🌐 **GitHub Profile:** [https://github.com/skipfie]
+🌐 **GitHub Profile:** [https://github.com/skipfie](https://github.com/skipfie)
