@@ -12,6 +12,7 @@ Feel free to reach out to me through any of the links on [my website](https://sk
 ### [CPEN211](https://github.com/skipfie/CPEN211)
 
 CPEN 211: Introduction to Microcomputers 2022W1 with Prof. Lis. Written in SystemVerilog and ARM assembly.
+
 Description: Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers.
 
 Written using VSCode, simulated with ModelSim and synthesized with Quartus Prime 18.1.
